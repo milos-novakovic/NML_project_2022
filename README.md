@@ -58,11 +58,13 @@ Required packages
 * class-resolver
 
 
-## Usage
+## Results
 
-Show users how to use the software.
-Be specific.
-Use appropriate formatting when showing code snippets.
+Results are provided in different locations for different models
+
+1. ***GraphSAINT*** model training and evaluation output values are stored in two places, i.e., for the [node-sampler-output-file](GraphSAINT/node_sampler_training_evaluation_test_cleared.txt) and for the [random-walk-sampler-output-file](GraphSAINT/random_walk_sampler_training_evaluation_test_cleared.txt).
+2. qwe
+3. qwe
 
 ## How to test the software
 
