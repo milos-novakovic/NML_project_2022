@@ -97,6 +97,4 @@ If you have questions, concerns, bug reports, etc, please file an issue in this 
 
 ## Credits and references
 
-1. Projects that inspired you
-2. Related projects
-3. Books, papers, talks, or other sources that have meaningful impact or influence on this project
+1. The idea and the code for the GraphSAINT model was taken from [repo](https://github.com/lt610/GraphSaint).
