@@ -1,0 +1,269 @@
+----Data statistics------'
+    #Nodes 1569960
+    #Edges 264339468
+    #Classes 107
+    #Train samples 1255968
+    #Val samples 78498
+    #Test samples 235494
+
+Sampling time: [25.38s]
+Normalization time: [566.58s]
+The number of subgraphs is:  19992
+The size of subgraphs is about:  3105
+labels shape: torch.Size([1569960, 107])
+features shape: torch.Size([1569960, 200])
+
+
+epoch:1/30, Iteration 419/419:training loss 4.799976348876953
+Finished training epoch = 1. The training execution time = 205.24 sec.
+ ---------------------------------------------------------------------------------------------------------------- 
+
+Val F1-mic 0.4263, Val F1-mac 0.0315
+new best val f1: 0.42626102829327656
+Finished evaluating epoch = 1. The evaluating execution time = 264.92 sec.
+ ---------------------------------------------------------------------------------------------------------------- 
+epoch:2/30, Iteration 419/419:training loss 2.731551170349121
+Finished training epoch = 2. The training execution time = 191.2 sec.
+ ---------------------------------------------------------------------------------------------------------------- 
+Val F1-mic 0.6927, Val F1-mac 0.2532
+new best val f1: 0.6927393896878289
+Finished evaluating epoch = 2. The evaluating execution time = 265.58 sec.
+ ---------------------------------------------------------------------------------------------------------------- 
+epoch:3/30, Iteration 419/419:training loss 2.3778045177459717
+Finished training epoch = 3. The training execution time = 193.71 sec.
+ ---------------------------------------------------------------------------------------------------------------- 
+Val F1-mic 0.7385, Val F1-mac 0.3740
+new best val f1: 0.7385400363679131
+Finished evaluating epoch = 3. The evaluating execution time = 261.83 sec.
+ ---------------------------------------------------------------------------------------------------------------- 
+epoch:4/30, Iteration 419/419:training loss 2.271641969680786
+Finished training epoch = 4. The training execution time = 204.86 sec.
+ ---------------------------------------------------------------------------------------------------------------- 
+Val F1-mic 0.7621, Val F1-mac 0.4765
+new best val f1: 0.7620999124963174
+Finished evaluating epoch = 4. The evaluating execution time = 262.56 sec.
+ ---------------------------------------------------------------------------------------------------------------- 
+epoch:5/30, Iteration 419/419:training loss 2.156838893890381
+Finished training epoch = 5. The training execution time = 193.77 sec.
+ ---------------------------------------------------------------------------------------------------------------- 
+Val F1-mic 0.7752, Val F1-mac 0.5225
+new best val f1: 0.7752178924330134
+Finished evaluating epoch = 5. The evaluating execution time = 269.09 sec.
+ ---------------------------------------------------------------------------------------------------------------- 
+epoch:6/30, Iteration 419/419:training loss 2.0501012802124023
+Finished training epoch = 6. The training execution time = 193.11 sec.
+ ---------------------------------------------------------------------------------------------------------------- 
+Val F1-mic 0.7803, Val F1-mac 0.5423
+new best val f1: 0.7803021795281576
+Finished evaluating epoch = 6. The evaluating execution time = 261.37 sec.
+ ---------------------------------------------------------------------------------------------------------------- 
+epoch:7/30, Iteration 419/419:training loss 2.097552537918091
+Finished training epoch = 7. The training execution time = 204.93 sec.
+ ---------------------------------------------------------------------------------------------------------------- 
+Val F1-mic 0.7856, Val F1-mac 0.5657
+new best val f1: 0.7856365241691454
+Finished evaluating epoch = 7. The evaluating execution time = 264.96 sec.
+ ---------------------------------------------------------------------------------------------------------------- 
+epoch:8/30, Iteration 419/419:training loss 2.118929147720337
+Finished training epoch = 8. The training execution time = 207.41 sec.
+ ---------------------------------------------------------------------------------------------------------------- 
+Val F1-mic 0.7912, Val F1-mac 0.5853
+new best val f1: 0.7912078614849002
+Finished evaluating epoch = 8. The evaluating execution time = 299.73 sec.
+ ---------------------------------------------------------------------------------------------------------------- 
+epoch:9/30, Iteration 419/419:training loss 1.9417403936386108
+Finished training epoch = 9. The training execution time = 193.06 sec.
+ ---------------------------------------------------------------------------------------------------------------- 
+Val F1-mic 0.7928, Val F1-mac 0.5869
+new best val f1: 0.7928208896559974
+Finished evaluating epoch = 9. The evaluating execution time = 264.66 sec.
+ ---------------------------------------------------------------------------------------------------------------- 
+epoch:10/30, Iteration 419/419:training loss 2.0040736198425293
+Finished training epoch = 10. The training execution time = 203.53 sec.
+ ---------------------------------------------------------------------------------------------------------------- 
+Val F1-mic 0.7960, Val F1-mac 0.6007
+new best val f1: 0.7959798909628221
+Finished evaluating epoch = 10. The evaluating execution time = 266.87 sec.
+ ---------------------------------------------------------------------------------------------------------------- 
+epoch:11/30, Iteration 419/419:training loss 1.8801891803741455
+Finished training epoch = 11. The training execution time = 193.97 sec.
+ ---------------------------------------------------------------------------------------------------------------- 
+Val F1-mic 0.7983, Val F1-mac 0.6082
+new best val f1: 0.7982790172816757
+Finished evaluating epoch = 11. The evaluating execution time = 273.27 sec.
+ ---------------------------------------------------------------------------------------------------------------- 
+epoch:12/30, Iteration 419/419:training loss 1.928478479385376
+Finished training epoch = 12. The training execution time = 197.28 sec.
+ ---------------------------------------------------------------------------------------------------------------- 
+Val F1-mic 0.8012, Val F1-mac 0.6162
+new best val f1: 0.8011978961320033
+Finished evaluating epoch = 12. The evaluating execution time = 261.92 sec.
+ ---------------------------------------------------------------------------------------------------------------- 
+epoch:13/30, Iteration 419/419:training loss 1.716722846031189
+Finished training epoch = 13. The training execution time = 205.75 sec.
+ ---------------------------------------------------------------------------------------------------------------- 
+Val F1-mic 0.8014, Val F1-mac 0.6197
+new best val f1: 0.8014138141423492
+Finished evaluating epoch = 13. The evaluating execution time = 269.85 sec.
+ ---------------------------------------------------------------------------------------------------------------- 
+epoch:14/30, Iteration 419/419:training loss 1.8521416187286377
+Finished training epoch = 14. The training execution time = 206.43 sec.
+ ---------------------------------------------------------------------------------------------------------------- 
+Val F1-mic 0.8018, Val F1-mac 0.6184
+new best val f1: 0.8017946085700164
+Finished evaluating epoch = 14. The evaluating execution time = 269.35 sec.
+ ---------------------------------------------------------------------------------------------------------------- 
+epoch:15/30, Iteration 419/419:training loss 1.8113545179367065
+Finished training epoch = 15. The training execution time = 194.64 sec.
+ ---------------------------------------------------------------------------------------------------------------- 
+Val F1-mic 0.8044, Val F1-mac 0.6230
+new best val f1: 0.8043978995860652
+Finished evaluating epoch = 15. The evaluating execution time = 273.08 sec.
+ ---------------------------------------------------------------------------------------------------------------- 
+epoch:16/30, Iteration 419/419:training loss 1.7413208484649658
+Finished training epoch = 16. The training execution time = 195.98 sec.
+ ---------------------------------------------------------------------------------------------------------------- 
+Val F1-mic 0.8054, Val F1-mac 0.6326
+new best val f1: 0.8054109342119604
+Finished evaluating epoch = 16. The evaluating execution time = 271.34 sec.
+ ---------------------------------------------------------------------------------------------------------------- 
+epoch:17/30, Iteration 419/419:training loss 1.733848214149475
+Finished training epoch = 17. The training execution time = 207.47 sec.
+ ---------------------------------------------------------------------------------------------------------------- 
+Val F1-mic 0.8055, Val F1-mac 0.6262
+new best val f1: 0.8055216325705575
+Finished evaluating epoch = 17. The evaluating execution time = 266.29 sec.
+ ---------------------------------------------------------------------------------------------------------------- 
+epoch:18/30, Iteration 419/419:training loss 1.7397078275680542
+Finished training epoch = 18. The training execution time = 208.72 sec.
+ ---------------------------------------------------------------------------------------------------------------- 
+Val F1-mic 0.8059, Val F1-mac 0.6276
+new best val f1: 0.8059058958060069
+Finished evaluating epoch = 18. The evaluating execution time = 267.26 sec.
+ ---------------------------------------------------------------------------------------------------------------- 
+epoch:19/30, Iteration 419/419:training loss 1.8295588493347168
+Finished training epoch = 19. The training execution time = 196.13 sec.
+ ---------------------------------------------------------------------------------------------------------------- 
+Val F1-mic 0.8075, Val F1-mac 0.6355
+new best val f1: 0.8075365262976751
+Finished evaluating epoch = 19. The evaluating execution time = 285.68 sec.
+ ---------------------------------------------------------------------------------------------------------------- 
+epoch:20/30, Iteration 419/419:training loss 1.7620983123779297
+Finished training epoch = 20. The training execution time = 196.96 sec.
+ ---------------------------------------------------------------------------------------------------------------- 
+Val F1-mic 0.8081, Val F1-mac 0.6389
+new best val f1: 0.8080717751135589
+Finished evaluating epoch = 20. The evaluating execution time = 265.17 sec.
+ ---------------------------------------------------------------------------------------------------------------- 
+epoch:21/30, Iteration 419/419:training loss 1.8029959201812744
+Finished training epoch = 21. The training execution time = 206.22 sec.
+ ---------------------------------------------------------------------------------------------------------------- 
+Val F1-mic 0.8082, Val F1-mac 0.6403
+new best val f1: 0.8081978336809832
+Finished evaluating epoch = 21. The evaluating execution time = 269.44 sec.
+ ---------------------------------------------------------------------------------------------------------------- 
+epoch:22/30, Iteration 419/419:training loss 1.7683738470077515
+Finished training epoch = 22. The training execution time = 208.7 sec.
+ ---------------------------------------------------------------------------------------------------------------- 
+Val F1-mic 0.8089, Val F1-mac 0.6401
+new best val f1: 0.8088820455315712
+Finished evaluating epoch = 22. The evaluating execution time = 268.64 sec.
+ ---------------------------------------------------------------------------------------------------------------- 
+epoch:23/30, Iteration 419/419:training loss 1.7974141836166382
+Finished training epoch = 23. The training execution time = 194.11 sec.
+ ---------------------------------------------------------------------------------------------------------------- 
+Val F1-mic 0.8101, Val F1-mac 0.6418
+new best val f1: 0.8101372351328606
+Finished evaluating epoch = 23. The evaluating execution time = 292.93 sec.
+ ---------------------------------------------------------------------------------------------------------------- 
+epoch:24/30, Iteration 419/419:training loss 1.6329395771026611
+Finished training epoch = 24. The training execution time = 195.61 sec.
+ ---------------------------------------------------------------------------------------------------------------- 
+Val F1-mic 0.8106, Val F1-mac 0.6452
+new best val f1: 0.8106307292951165
+Finished evaluating epoch = 24. The evaluating execution time = 265.06 sec.
+ ---------------------------------------------------------------------------------------------------------------- 
+epoch:25/30, Iteration 419/419:training loss 1.7649474143981934
+Finished training epoch = 25. The training execution time = 204.77 sec.
+ ---------------------------------------------------------------------------------------------------------------- 
+Val F1-mic 0.8097, Val F1-mac 0.6421
+Finished evaluating epoch = 25. The evaluating execution time = 266.36 sec.
+ ---------------------------------------------------------------------------------------------------------------- 
+epoch:26/30, Iteration 419/419:training loss 1.6202327013015747
+Finished training epoch = 26. The training execution time = 213.55 sec.
+ ---------------------------------------------------------------------------------------------------------------- 
+Val F1-mic 0.8105, Val F1-mac 0.6433
+Finished evaluating epoch = 26. The evaluating execution time = 282.6 sec.
+ ---------------------------------------------------------------------------------------------------------------- 
+epoch:27/30, Iteration 419/419:training loss 1.7375941276550293
+Finished training epoch = 27. The training execution time = 194.03 sec.
+ ---------------------------------------------------------------------------------------------------------------- 
+Val F1-mic 0.8110, Val F1-mac 0.6435
+new best val f1: 0.8109902977584477
+Finished evaluating epoch = 27. The evaluating execution time = 272.23 sec.
+ ---------------------------------------------------------------------------------------------------------------- 
+epoch:28/30, Iteration 419/419:training loss 1.5220870971679688
+Finished training epoch = 28. The training execution time = 196.95 sec.
+ ---------------------------------------------------------------------------------------------------------------- 
+Val F1-mic 0.8116, Val F1-mac 0.6467
+new best val f1: 0.8115595931931665
+Finished evaluating epoch = 28. The evaluating execution time = 265.98 sec.
+ ---------------------------------------------------------------------------------------------------------------- 
+epoch:29/30, Iteration 419/419:training loss 1.6682610511779785
+Finished training epoch = 29. The training execution time = 206.8 sec.
+ ---------------------------------------------------------------------------------------------------------------- 
+Val F1-mic 0.8116, Val F1-mac 0.6435
+Finished evaluating epoch = 29. The evaluating execution time = 263.82 sec.
+ ---------------------------------------------------------------------------------------------------------------- 
+epoch:30/30, Iteration 419/419:training loss 1.6829849481582642
+Finished training epoch = 30. The training execution time = 232.51 sec.
+ ---------------------------------------------------------------------------------------------------------------- 
+Val F1-mic 0.8127, Val F1-mac 0.6494
+new best val f1: 0.8127041455326197
+Finished evaluating epoch = 30. The evaluating execution time = 271.52 sec.
+ ---------------------------------------------------------------------------------------------------------------- 
+training using time 14150.793138980865
+ ---------------------------------------------------------------------------------------------------------------- 
+Test F1-mic 0.8143, Test F1-mac 0.6508
+ ---------------------------------------------------------------------------------------------------------------- 
+ 
+GCNNet(
+  (gcn): ModuleList(
+    (0): GCNLayer(
+      (lins): ModuleList(
+        (0): Linear(in_features=200, out_features=512, bias=False)
+        (1): Linear(in_features=200, out_features=512, bias=False)
+      )
+      (bias): ParameterList(
+          (0): Parameter containing: [torch.FloatTensor of size 512]
+          (1): Parameter containing: [torch.FloatTensor of size 512]
+      )
+      (dropout): Dropout(p=0.1, inplace=False)
+    )
+    (1): GCNLayer(
+      (lins): ModuleList(
+        (0): Linear(in_features=1024, out_features=512, bias=False)
+        (1): Linear(in_features=1024, out_features=512, bias=False)
+      )
+      (bias): ParameterList(
+          (0): Parameter containing: [torch.FloatTensor of size 512]
+          (1): Parameter containing: [torch.FloatTensor of size 512]
+      )
+      (dropout): Dropout(p=0.1, inplace=False)
+    )
+    (2): GCNLayer(
+      (lins): ModuleList(
+        (0): Linear(in_features=1024, out_features=512, bias=False)
+      )
+      (bias): ParameterList(  (0): Parameter containing: [torch.FloatTensor of size 512])
+      (dropout): Dropout(p=0.1, inplace=False)
+    )
+  )
+  (out_layer): GCNLayer(
+    (lins): ModuleList(
+      (0): Linear(in_features=512, out_features=107, bias=False)
+    )
+    (bias): ParameterList(  (0): Parameter containing: [torch.FloatTensor of size 107])
+    (dropout): Dropout(p=0.1, inplace=False)
+  )
+)
