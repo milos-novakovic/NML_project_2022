@@ -28,19 +28,9 @@ Details for the Amazon dataset are as follows:
 Raw and proceseed data used for
 
 1. the **GraphSAINT** model is located [here](https://drive.google.com/drive/folders/19qW5aq0C17Zqvv9sDmZn1sxlv3MPdYm1?usp=sharing).
-2. the **MLP** and **GraphSAGE** models is located [here](https://drive.google.com/drive/folders/1KPE50zojEd0jMAY58ypHdF6sqfu71pb8?usp=sharing).
-
-
-
-> Keep the README fresh! It's the first thing people see and will make the initial impression.
-
-
-```
-bash -c "$(curl -s https://raw.githubusercontent.com/CFPB/development/main/open-source-template.sh)"
-```
+2. the **MLP** (multilayer perceptron) and **GraphSAGE** models is located [here](https://drive.google.com/drive/folders/1KPE50zojEd0jMAY58ypHdF6sqfu71pb8?usp=sharing).
 
 ----
-
 
 ## Dependencies
 Required packages 
@@ -67,26 +57,7 @@ Results are provided in different locations for different models
 2. ***MLP*** model training and evaluation output values are stored in the corresponding [ipynb-file](MLP/Project_exploitation_MLP.ipynb).
 3. ***GraphSAGE*** model training and evaluation output values are stored in the corresponding [ipynb-file](GraphSAGE/Project_exploitation_GraphSAGE.ipynb).
 
-## How to test the software
-
-If the software includes automated tests, detail how to run those tests.
-
-## Known issues
-
-Document any known significant shortcomings with the software.
-
-## Getting help
-
-Instruct users how to get help with this software; this might include links to an issue tracker, wiki, mailing list, etc.
-
-**Example**
-
 If you have questions, concerns, bug reports, etc, please file an issue in this repository's Issue Tracker.
-
-## Getting involved
-
-
-
 
 ----
 
