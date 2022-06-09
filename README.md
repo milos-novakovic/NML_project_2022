@@ -10,7 +10,7 @@ Group: 9
 
 ## Dataset
 
-The Dataset used was The [AmazonProducts](https://pytorch-geometric.readthedocs.io/en/latest/_modules/torch_geometric/datasets/amazon_products.html).
+The Dataset used was [AmazonProducts](https://pytorch-geometric.readthedocs.io/en/latest/_modules/torch_geometric/datasets/amazon_products.html).
 One of the models used was the one from the ["GraphSAINT: Graph Sampling Based Inductive Learning Method"](https://arxiv.org/abs/1907.04931) paper, which contains Amazons' products and its categories .
 
 The Amazon dataset is processed from the bipartite user-item graph from Amazon.
