@@ -1,15 +1,15 @@
 # Network Machine Learning final project at EPFL
 
-#### CFPB Open Source Project Template Instructions
+#### Subtitle
 
-1. Create a new project.
-2. [Copy these files into the new project](#installation)
+1. First 
+2. [Second underline](#installation)
 3. Update the README, replacing the contents below as prescribed.
 4. Add any libraries, assets, or hard dependencies whose source code will be included
    in the project's repository to the _Exceptions_ section in the [TERMS](TERMS.md).
   - If no exceptions are needed, remove that section from TERMS.
 5. If working with an existing code base, answer the questions on the [open source checklist](opensource-checklist.md)
-6. Delete these instructions and everything up to the _Project Title_ from the README.
+6. Delete these instructions and everything up to the _Italic_
 7. Write some great software and tell people about it.
 
 > Keep the README fresh! It's the first thing people see and will make the initial impression.
