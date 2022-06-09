@@ -49,14 +49,11 @@ Required packages
 
 ## Results
 
-Results are provided in different locations for different models
+Results are provided in different locations for different models, therefore for the model:
 
 1. ***GraphSAINT*** model training and evaluation output values are stored in two places, i.e., for the [node-sampler-output-file](GraphSAINT/node_sampler_training_evaluation_test_cleared.txt) and for the [random-walk-sampler-output-file](GraphSAINT/random_walk_sampler_training_evaluation_test_cleared.txt).
 2. ***MLP*** model training and evaluation output values are stored in the corresponding [ipynb-file](MLP/Project_exploitation_MLP.ipynb).
 3. ***GraphSAGE*** model training and evaluation output values are stored in the corresponding [ipynb-file](GraphSAGE/Project_exploitation_GraphSAGE.ipynb).
-
-If you have questions, concerns, bug reports, etc, please file an issue in this repository's Issue Tracker.
-
 
 
 ## Open source licensing info
@@ -65,3 +62,5 @@ If you have questions, concerns, bug reports, etc, please file an issue in this 
 ## Credits and references
 
 1. The idea and the code for the GraphSAINT model was taken from [repo](https://github.com/lt610/GraphSaint).
+
+# If you have questions, concerns, bug reports, etc, please file an issue in this repository's Issue Tracker.
