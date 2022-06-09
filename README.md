@@ -2,9 +2,9 @@
 
 Authors
 
-Mateja Ilic ( ilic.mateja@epfl.ch )
+Mateja Ilić ( ilic.mateja@epfl.ch )
 
-Milos Novakovic ( milos.novakovic@epfl.ch ) 
+Miloš Novaković ( milos.novakovic@epfl.ch ) 
 
 #### Subtitle
 
