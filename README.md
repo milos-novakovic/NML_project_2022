@@ -11,10 +11,7 @@ Group: 9
 ## Dataset
 
 The Dataset used was [AmazonProducts](https://pytorch-geometric.readthedocs.io/en/latest/_modules/torch_geometric/datasets/amazon_products.html).
-One of the models used was the one from the ["GraphSAINT: Graph Sampling Based Inductive Learning Method"](https://arxiv.org/abs/1907.04931) paper, which contains Amazons' products and its categories .
-
 The Amazon dataset is processed from the bipartite user-item graph from Amazon.
-
 The problem here is to predict an Amazon product category based on the text of the reviews. 
 
 Details for the Amazon dataset are as follows:
@@ -28,8 +25,10 @@ Details for the Amazon dataset are as follows:
 
 Raw and proceseed data used for
 
-1. the **GraphSAINT** model is located [here](https://drive.google.com/drive/folders/19qW5aq0C17Zqvv9sDmZn1sxlv3MPdYm1?usp=sharing).
+1. the **GraphSAINT*** model is located [here](https://drive.google.com/drive/folders/19qW5aq0C17Zqvv9sDmZn1sxlv3MPdYm1?usp=sharing). 
 2. the **MLP** (multilayer perceptron) and **GraphSAGE** models is located [here](https://drive.google.com/drive/folders/1KPE50zojEd0jMAY58ypHdF6sqfu71pb8?usp=sharing).
+
+*One of the models used was the one from the ["GraphSAINT: Graph Sampling Based Inductive Learning Method"](https://arxiv.org/abs/1907.04931) paper, which contains Amazons' products and its categories .
 
 ## Dependencies
 Required packages 
