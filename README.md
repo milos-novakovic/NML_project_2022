@@ -62,5 +62,3 @@ Results are provided in different locations for different models, therefore for 
 ## Credits and references
 
 1. The idea and the code for the GraphSAINT model was taken from [repo](https://github.com/lt610/GraphSaint).
-
-# If you have questions, concerns, bug reports, etc, please file an issue in this repository's Issue Tracker.
