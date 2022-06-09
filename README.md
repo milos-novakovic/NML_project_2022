@@ -30,8 +30,6 @@ Raw and proceseed data used for
 1. the **GraphSAINT** model is located [here](https://drive.google.com/drive/folders/19qW5aq0C17Zqvv9sDmZn1sxlv3MPdYm1?usp=sharing).
 2. the **MLP** (multilayer perceptron) and **GraphSAGE** models is located [here](https://drive.google.com/drive/folders/1KPE50zojEd0jMAY58ypHdF6sqfu71pb8?usp=sharing).
 
-----
-
 ## Dependencies
 Required packages 
 
@@ -59,13 +57,10 @@ Results are provided in different locations for different models
 
 If you have questions, concerns, bug reports, etc, please file an issue in this repository's Issue Tracker.
 
-----
+
 
 ## Open source licensing info
 1. [LICENSE](LICENSE)
-
-
-----
 
 ## Credits and references
 
