@@ -57,8 +57,8 @@ Results are provided in different locations for different models, therefore for 
 
 
 ## Open source licensing info
-1. [LICENSE](LICENSE)
+- [LICENSE](LICENSE)
 
 ## Credits and references
 
-1. The idea and the code for the GraphSAINT model was taken from [repo](https://github.com/lt610/GraphSaint).
+- The idea and the code for the GraphSAINT model was taken from [repo](https://github.com/lt610/GraphSaint).
