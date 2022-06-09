@@ -45,6 +45,7 @@ Required packages
 * dgl
 * sklearn
 * class-resolver
+* networkx
 
 
 ## Results
