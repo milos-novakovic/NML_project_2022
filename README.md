@@ -1,4 +1,7 @@
 # Network Machine Learning final project at EPFL
+Authors
+Mateja Ilic (ilic.mateja@epfl.ch)
+Milos Novakovic (milos.novakovic@epfl.ch) 
 
 #### Subtitle
 
